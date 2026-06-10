@@ -1,8 +1,3 @@
-"""
-engine.py — EchoEye: Vision + Audio + Chat Engine
-Uses Ollama (llava model) for image analysis and chat, gTTS for text-to-speech.
-"""
-
 import base64
 import json
 import re
