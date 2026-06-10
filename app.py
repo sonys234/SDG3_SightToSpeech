@@ -1,7 +1,4 @@
-"""
-app.py — Sight-to-Speech  (complete rewrite)
-Run with: streamlit run app.py
-"""
+
 
 import io
 import streamlit as st
